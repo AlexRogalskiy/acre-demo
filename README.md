@@ -4,6 +4,8 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+[![Terraform CI](https://github.com/redisgeek/acre-demo/actions/workflows/terraform-ci.yml/badge.svg)](https://github.com/redisgeek/acre-demo/actions/workflows/terraform-ci.yml)
+
 # ACRE-DEMO
 
 This project deploys a collection of use cases and demonstrations around Azure Cache for Redis Enterprise
