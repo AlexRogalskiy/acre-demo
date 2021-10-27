@@ -1,5 +1,5 @@
 module "acre-terraform-geo-replication-simple" {
-  source = "github.com/redis-developer/acre-terraform-geo-replication-simple"
+  source = "github.com/redisgeek/acre-terraform-geo-replication-simple"
 }
 
 module "acrp-terraform-simple" {
